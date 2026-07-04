@@ -1,6 +1,3 @@
-Part 1: The Methodology Summary (Your Rationale)
-Copy and paste this into your submission notes or a README file.
-
 Predictiva Machine Learning Challenge: Pairwise Preference Modeling
 
 1. Problem Formulation
