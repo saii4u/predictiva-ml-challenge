@@ -22,15 +22,15 @@ I utilized a Random Forest Classifier. Tree-based ensemble models are highly rob
 Part 2: The Final Commented Code
 This is the exact working code, but fully annotated for the evaluators.
 
-"""
+"
 Predictiva Machine Learning Challenge - Task 1
-Author: [Your Name]
+Author: Sai Krishna Anumula
 
 This script processes pairwise financial time-series data to predict which
 trading agent's strategy is preferred. It extracts key financial metrics 
 from raw OHLCV and Position Mask data, calculates the relative differences, 
 and trains a Random Forest model to classify the winning agent.
-"""
+"
 
 import pandas as pd
 import numpy as np
